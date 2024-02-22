@@ -1,0 +1,55 @@
+.s1{
+
+    background-color: #EEE;
+    outline: 5px black solid;
+    border: 5px red solid;
+    margin: 50px;
+    display: inline-block;
+
+}
+
+.s2{
+    
+    background-color: #EEE;
+    outline: 5px black solid;
+    border: 5px solid;
+    border-color: blue green;
+    margin: 50px;
+    display: inline-block;
+}
+
+.s3{
+    
+    background-color: #EEE;
+    outline: 5px black solid;
+    margin: 50px;
+    border: 5px;
+    border-style: dashed;
+    border-color: red green blue yellow;
+    display: inline-block;
+}
+
+
+/* ------------------------------------------------------------------------------------- */
+
+
+.element-1{
+
+    width: 400px;
+    background-color: rgb(172, 171, 171);
+    border-left: 5px red solid;
+
+}
+
+.element-2{
+
+    width: 400px;
+    visibility: hidden;
+}
+
+.element-3{
+
+    width: 400px;
+    background-color: rgb(172, 171, 171);
+    border-left: 5px green solid ;
+}

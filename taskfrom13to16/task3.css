@@ -1,0 +1,39 @@
+.child .title{
+
+    color: red;
+
+}
+
+.parent .title{
+
+    color: blue;
+}
+
+div p ,
+.title{
+
+    color: green;
+}
+
+/* --------------------------------------------------------------------------------------------------------- */
+
+.d1,
+.d2,
+.d3,
+.d4{
+
+    background-color: rgb(139, 26, 26);
+    max-width: 400px;
+    max-height: 200px;
+    width: fit-content;
+    margin: 30px;
+    display:block;
+
+}
+
+.d4{
+    
+    width: 400px;
+    overflow-y: hidden;
+}
+
